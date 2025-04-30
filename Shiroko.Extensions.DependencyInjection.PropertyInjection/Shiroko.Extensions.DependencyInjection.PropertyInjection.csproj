@@ -6,6 +6,7 @@
 		<Nullable>enable</Nullable>
 		<Company>EchoHR910</Company>
 		<AssemblyVersion>1.0.1</AssemblyVersion>
+		<VersionPrefix>$(AssemblyVersion)</VersionPrefix>
 		<GeneratePackageOnBuild>False</GeneratePackageOnBuild>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<RepositoryUrl>https://github.com/EchoHR910/Shiroko.Extensions.DependencyInjection</RepositoryUrl>
